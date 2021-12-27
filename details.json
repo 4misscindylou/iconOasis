@@ -1,0 +1,28 @@
+{
+  "representative": {
+    "logo": {
+      "logo_256": "http://prep-registration-assured-haddock.s3-website-us-west-2.amazonaws.com/.",
+      "logo_1024": "http://prep-registration-assured-haddock.s3-website-us-west-2.amazonaws.com/.",
+      "logo_svg": "http://prep-registration-assured-haddock.s3-website-us-west-2.amazonaws.com/."
+    },
+    "media": {
+      "steemit": "",
+      "twitter": "",
+      "youtube": "",
+      "facebook": "",
+      "github": "",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat": ""
+    }
+  },
+  "server": {
+    "location": {
+      "country": "USA",
+      "city":  "San Diego"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "44.234.71.93:9000"
+  }
+}
